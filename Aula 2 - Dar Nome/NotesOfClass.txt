@@ -1,0 +1,8 @@
+Diferença de sobrecarga e sobrescrita
+
+sobrecarga --> Permite varios metodos com o mesmo nome, sendo distinguidos pelos seus parametros ou tipos de parametros
+
+Sobrescrita --> Necessita de um metodo que é herdado por outra classe,
+
+
+--Todo filho pode se comportar como a classe pai
