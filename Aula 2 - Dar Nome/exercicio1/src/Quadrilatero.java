@@ -1,4 +1,4 @@
-package exercicio.src;
+package exercicio1.src;
 
 public abstract class Quadrilatero implements FormaGeometrica {
 	
